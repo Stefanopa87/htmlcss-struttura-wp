@@ -31,7 +31,9 @@
     /* height: 800px; */
     min-height: 800px;
     margin-bottom: 20px;
-    /* debug */
+  }
+
+  .row{
     background-color: blue;
   }
 
@@ -43,7 +45,7 @@
 
   .top{
     height: 50px;
-    margin-bottom: 20px;
+    margin-bottom: 35px;
     /* debug */
     background-color: aqua;
   }
